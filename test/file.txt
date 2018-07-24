@@ -1,0 +1,5 @@
+This is the first line
+This is the second line, the following line is empty
+
+Montpellier, first mentioned in a document of 985, was founded under a local feudal dynasty, the Guilhem, who combined two hamlets and built a castle and walls around the united settlement.[EOL]The two surviving towers of the city walls, the Tour des Pins and the Tour de la Babotte, were built later, around the year 1200.
+ft_cat passed!
